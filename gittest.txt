@@ -1,0 +1,13 @@
+Understanding the Business Requirement Specifications.
+
+• Designing Test Cases, Execution of the test cases and reporting the bugs.
+
+• Conducted Functional testing with Valid and Invalid inputs for positive and negative testing.
+
+• Communicates with Functional Analyst on any issue clarifications.
+
+• Preparing Defect report as per severity and priority Active participation in Bug triage meetings.
+
+• Modifying the Tests and Conducting Regression Testing.
+
+• Participation in Test Closure activities.
